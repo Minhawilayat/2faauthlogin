@@ -1,0 +1,6 @@
+Flask>=3.0
+Flask-Limiter>=3.5
+pyotp>=2.9
+qrcode[pil]>=7.4
+cryptography>=42.0
+pytest>=8.0
